@@ -6,6 +6,8 @@
 
 ![VitorPontes18 GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorPontes18&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorPontes18&layout=donut)](https://github.com/VitorPontes18/github-readme-stats)
+
 ### Tecnologias que eu uso 
 
 <div style="display: inline_block"><br/>
